@@ -5,5 +5,6 @@ public class Test {
 		
 		System.out.println("Hello World");
 		System.out.println("Bori megtalalta, köszi");
+		System.out.println("Tomi megtalalta, köszi");
 	}
 }
